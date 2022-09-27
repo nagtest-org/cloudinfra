@@ -27,3 +27,4 @@ jobs:
           args:             
             -Dsonar.projectKey=nagtest-org_cloudinfra
             -Dsonar.organization=nagtest-org
+            -Dsonar.sources=.
